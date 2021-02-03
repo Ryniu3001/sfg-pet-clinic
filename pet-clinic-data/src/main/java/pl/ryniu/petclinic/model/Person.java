@@ -1,5 +1,4 @@
 package pl.ryniu.petclinic.model;
-
 public class Person {
 	
 	private String firstName;
