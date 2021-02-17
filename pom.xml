@@ -15,6 +15,7 @@
 	<properties>
 		<java.version>11</java.version>
 		<start-class>pl.ryniu.petclinic.SfgPetClinicApplication</start-class>
+
 	</properties>
 
 	<build>
